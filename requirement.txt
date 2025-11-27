@@ -1,0 +1,7 @@
+Python libraries to be installed:
+
+1. Streamlit
+2. Panda 
+3. Transformers 
+4. Torch 
+5. plotly 

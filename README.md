@@ -170,4 +170,18 @@ This combines:
 
 ---
 
+### Demo video link
+https://drive.google.com/file/d/1Xy4iOr7cAOnPxbzRGDkW_0jWg5YqFzR6/view?usp=sharing
+
+
+### Slides link
+
+Editable version
+https://www.canva.com/design/DAG54Cv-bl4/4fvfE-uL3UnO7p-19_LFtw/edit?utm_content=DAG54Cv-bl4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+View only
+https://www.canva.com/design/DAG54Cv-bl4/D46DPTzkFRjT8W_OwMaigg/view?utm_content=DAG54Cv-bl4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9f47bb2a89
+
+
+
 

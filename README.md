@@ -1,4 +1,6 @@
-# Code Fest Hacakathon
+p.s. Demo video and slides links at most bottom
+
+# Code Fest Hackathon
 **Team: When you stress don't stress**
 - Norman Lee Weng Hong
 - Daniel Goh Zhi Qian
